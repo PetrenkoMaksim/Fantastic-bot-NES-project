@@ -1,0 +1,10 @@
+garden_questions = ["1. Who is Ts'ui Pen?",
+                    "2. What does Dr. Yu Tsun think of Dr. Stephen Albert?",
+                    "3. Where did Dr. Yu Tsun got the address of Dr. Stephen Albert?",
+                    "4. When does the labyrinth open?",
+                    "5. Which thing Albert asks Tsun to put up?",
+                    "6. Albert compares a circular volume with...",
+                    "7. Thus the heroes fought, with tranquil heart and bloody ... . They were resigned to killing and to dying.",
+                    "8. When listening to the writings of Ts'ui Pen the narrator was mostly amazed at ... ",
+                    "9. What idea helped the narrator to find the solution to his problem?",
+                    "10. "]
